@@ -5,7 +5,7 @@
 💚 Forever aprentice and technology lover<br/>
 
 
-  <div style="display: inline-block; text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MateusPereirah&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
