@@ -1,11 +1,13 @@
 ## Olá, eu sou Mateus Pereira, estudante de programação e tecnologia!
 
+  <div style="display: inline-block; text-align: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MateusPereirah&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusPereirah&layout=compact&theme=dracula&langs&count=8" />
 </a>
+  </div>
 
 
   <div style="display: inline-block; text-align: center;">
