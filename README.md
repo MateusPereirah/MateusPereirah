@@ -1,4 +1,9 @@
-## Olá, eu sou Mateus Pereira, estudante de programação e tecnologia!
+# 👋🏼 Hi, I am Mateus Pereira
+👨🏼‍💻 Postgraduate in Software Engineering at Descomplica Faculdade Digital <br/>
+💻 Studied Systems Analysis and Development at FMU<br/>
+🧑🏻‍🏫 Always Studying and practicing development in Alura Cursos Online<br/>
+💚 Forever aprentice and technology lover<br/>
+
 
   <div style="display: inline-block; text-align: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -9,10 +14,9 @@
 </a>
   </div>
 
+  # Tech Stack:
+  <div style="display: inline-block;">
 
-  <div style="display: inline-block; text-align: center;">
-    <br>
-  ##Linguagens e ferramentas<br><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +24,7 @@
   <img align="center" alt="Mateus-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Mateus-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Mateus-PostgreeSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <br><br>
+
   <img align="center" alt="Mateus-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
