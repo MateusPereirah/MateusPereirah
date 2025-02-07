@@ -29,7 +29,6 @@
   <img align="center" alt="Mateus-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Mateus-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Mateus-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="right" alt="Mateus-GIF" height="100" width="100" src="https://s5.ezgif.com/tmp/ezgif-5-302bf38a50.gif">
   </div>
   
   ##
